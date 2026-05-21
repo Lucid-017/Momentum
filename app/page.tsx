@@ -1,3 +1,4 @@
+// dashboard (the whole app for now)
 import Image from "next/image";
 
 export default function Home() {
